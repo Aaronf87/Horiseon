@@ -87,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* combined 3 repeated properties with same code here */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,6 +103,9 @@ p {
     color: #ffffff;
 }
 
+
+/* combined 3 repeated properties with same code here */
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -117,6 +120,8 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* combined 3 repeated properties with same code here */
 
 .benefit-lead img {
     display: block;
@@ -135,6 +140,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* combined 3 repeated properties with same code here */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -163,6 +170,8 @@ p {
     color: #ffffff;
 }
 
+/* combined 3 repeated properties with same code here */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -174,6 +183,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* combined 3 repeated properties with same code here */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
