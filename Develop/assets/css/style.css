@@ -87,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* combined 3 repeated properties with same code here */
+/* NOT YET - combined 3 repeated properties with same code here */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -104,19 +104,9 @@ p {
 }
 
 
-/* combined 3 repeated properties with same code here */
+/* combined 3 repeated benefit h3 properties with same code here */
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+.benefit-lead h3 .benefit-brand h3 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
