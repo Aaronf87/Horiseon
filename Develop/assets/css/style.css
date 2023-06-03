@@ -80,7 +80,8 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    /* adjusted the padding */
+    padding: 43px;
     clear: both;
     float: right;
     width: 20%;
@@ -95,16 +96,16 @@ p {
     color: #ffffff;
 }
 
-/* combined 3 repeated benefit h3 properties with same code here */
+/* combined 3 repeated benefit h3 properties and applied to parent benefits with same code here */
 
-.benefit-lead h3 , .benefit-brand h3,  .benefit-cost h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* combined 3 repeated properties with same code here DONE */
+/* combined 3 repeated properties and applied to parent benefits with same code here DONE */
 
-.benefit-lead img , .benefit-brand img , .benefit-cost img{
+.benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
