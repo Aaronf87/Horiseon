@@ -29,9 +29,10 @@ THEN I find a concise, descriptive title
 
  Git was used in the main branch to save commits every step of the way and then pushed to Git Hub.  The refractored version of the Horiseon web page was deployed in Git hub pages with an included link to the site below.
  
- Link to the Horiseon Site  https://aaronf87.github.io/Horiseon/#social-media-marketing
+ Link to the live Horiseon Site  https://aaronf87.github.io/Horiseon/#social-media-marketing
 
-Assets\images\01-html-css-git-homework-demo.png
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-homework-demo.png)
 
 ## Credits
 
