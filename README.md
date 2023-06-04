@@ -1,6 +1,6 @@
 # Horiseon Webpage
 
-## This Project was made as a refracting challenge in #1 in the coding bootcamp course.  
+### This Project was made as a refracting challenge in #1 in the coding bootcamp course.  
 
 
 ## Installation
